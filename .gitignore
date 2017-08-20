@@ -26,3 +26,6 @@
 .idea/
 
 .env
+
+# Don't share the secret keys publicly
+/config/initializers/devise.rb
